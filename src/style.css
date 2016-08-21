@@ -1,0 +1,33 @@
+/*
+Author: Damon Godwin
+Date: 4/16/2016
+*/
+.error {
+    color: #FF0000;
+}
+p {
+    font-family: "Courier";
+}
+.tbl {
+    border-collapse: collapse;
+}
+.probBox {
+    box-sizing: border-box;
+    width: 600px;
+    height: 100px;
+}
+.buttons {
+    background-color: white;
+}
+.buttons:hover {
+    background-color: lightgray;
+}
+.borders {
+    font-family: "Courier";
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+
